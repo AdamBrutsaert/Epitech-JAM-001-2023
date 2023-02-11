@@ -6,7 +6,7 @@ import { MemoIcon, QuizIcon } from "components/Icons";
 
 const activities = [
   { href: "/memo", title: "Memo", icon: MemoIcon, id: 0 },
-  { href: "/quiz", title: "Quiz", icon: QuizIcon, id: 0 },
+  { href: "/quiz", title: "Quiz", icon: QuizIcon, id: 1 },
 ];
 
 const App: FunctionComponent = () => {
