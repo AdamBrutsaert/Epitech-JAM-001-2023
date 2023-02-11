@@ -4,8 +4,13 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import "styles/tailwind.css";
 
 import Menu from "pages/Menu";
+import Memo from "pages/Memo";
 
 const router = createBrowserRouter([
+  {
+    path: "/memo",
+    element: <Memo />,
+  },
   {
     path: "/",
     element: <Menu />,
