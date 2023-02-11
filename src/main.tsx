@@ -5,11 +5,16 @@ import "styles/tailwind.css";
 
 import Menu from "pages/Menu";
 import Memo from "pages/Memo";
+import Quiz from "pages/Quiz";
 
 const router = createBrowserRouter([
   {
     path: "/memo",
     element: <Memo />,
+  },
+  {
+    path: "/quiz",
+    element: <Quiz />,
   },
   {
     path: "/",
