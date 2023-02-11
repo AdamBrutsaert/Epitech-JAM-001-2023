@@ -1,0 +1,453 @@
+[   
+    {        
+        "text": "Quel est le vrai nom de Spider-Man?",
+        "answers": [
+            "Peter Parker",
+            "Clark Kent",
+            "Bruce Wayne",
+            "Tony Stark"
+          ],
+        "correct": 0
+   },
+
+   {
+        "text": "Quel est le super-héros créé par DC Comics?",
+        "answers": [
+            "Spider-Man",
+            "Iron Man",
+            "Superman",
+            "Captain America"
+        ],
+        "correct": 2
+   },
+   {
+        "text": "Quel est le super-héros créé par DC Comics qui a la capacité de voler?",
+        "answers": [
+            "Spider-Man",
+            "Superman",
+            "Iron Man",
+            "Captain America"
+        ],
+        "correct": 1
+   },
+   {
+        "text": "Quel est le vrai nom de Batman?",
+        "answers": [
+            "Clark Kent",
+            "Bruce Wayne",
+            "Steve Rogers",
+            "Tony Stark"
+        ],
+        "correct": 1
+   },
+   {
+        "text": "Quel est le super-héros créé par Marvel Comics qui peut contrôler la foudre?",
+        "answers": [
+            "Thor",
+            "Hulk",
+            "Iron Man",
+            "Captain America"
+        ],
+        "correct": 0
+   },
+   {
+        "text": "Quel est le super-héros créé par Marvel Comics qui peut se transformer en une créature massive et incroyablement puissante?",
+        "answers": [
+            "Spider-Man",
+            "Superman",
+            "Iron Man",
+            "Hulk"
+        ],
+        "correct": 3
+   },
+
+    {
+        "text": "Quel super-héros a la capacité de se téléporter à travers les dimensions?",
+        "answers": [
+            "Nightcrawler",
+            "Shadowcat",
+            "Adam Warlock",
+            "Miracleman"
+        ],
+        "correct": 0
+    },
+    {
+        "text": "Quel super-héros est capable de se rendre invisible et intangible?",
+        "answers": [
+            "Shadowcat",
+            "Nightcrawler",
+            "Adam Warlock",
+            "Miracleman"
+        ],
+        "correct": 0
+    },
+    {
+        "text": "Quel super-héros possède une force surhumaine, des réflexes accrus et une agilité exceptionnelle?",
+        "answers": [
+            "Nightcrawler",
+            "Shadowcat",
+            "Adam Warlock",
+            "Miracleman"
+        ],
+        "correct": 0
+    },
+    {
+        "text": "Quel super-héros a la capacité de guérir rapidement de presque toutes les blessures et de survivre sans air pendant des périodes prolongées?",
+        "answers": [
+            "Miracleman",
+            "Nightcrawler",
+            "Shadowcat",
+            "Adam Warlock"
+        ],
+        "correct": 3
+    },
+    {
+        "text": "Quel super-héros possède un costume qui lui permet de voler et de tirer des rayons d'énergie?",
+        "answers": [
+            "Adam Warlock",
+            "Miracleman",
+            "Nightcrawler",
+            "Shadowcat"
+        ],
+        "correct": 0
+    },
+    {
+        "text": "Quel super-héros est capable de contrôler la magie et de se battre avec un bâton magique?",
+        "answers": [
+            "Adam Warlock",
+            "Miracleman",
+            "Nightcrawler",
+            "Doctor Strange"
+        ],
+        "correct": 3
+    },
+    {
+        "text": "Quel super-héros possède une armure high-tech qui lui permet de voler et de tirer des rayons d'énergie?",
+        "answers": [
+            "Adam Warlock",
+            "Miracleman",
+            "Nightcrawler",
+            "Iron Man"
+        ],
+        "correct": 3
+    },
+    {
+        "text": "Quel super-héros peut contrôler les ombres et a la capacité de se déplacer à travers les ombres?",
+        "answers": [
+            "Nightcrawler",
+            "Shadowcat",
+            "Adam Warlock",
+            "Miracleman"
+        ],
+        "correct": 0
+    },
+    {
+        "text": "Quel super-héros a la capacité de changer de forme pour prendre l'apparence de n'importe qui et de devenir intangible?",
+        "answers": [
+        "Shadowcat",
+        "Nightcrawler",
+        "Adam Warlock",
+        "Mystique"
+        ],
+        "correct": 3
+    },
+    {
+        "text": "Quel super-héros possède une épée magique qui peut renvoyer les coups et les énergies?",
+        "answers": [
+        "Adam Warlock",
+        "Miracleman",
+        "Nightcrawler",
+        "Captain Britain"
+        ],
+        "correct": 3
+    },
+
+    {
+        "text": "Quel super-héros a été créé par Stan Lee et Steve Ditko?",
+        "answers": [
+            "Spider-Man",
+            "Iron Man",
+            "Superman",
+            "Captain America"
+        ],
+        "correct": 0,
+        "anecdote": "Spider-Man est apparu pour la première fois dans Amazing Fantasy #15 en 1962."
+    },
+    {
+        "text": "Quel super-héros a été interprété par Christopher Reeve dans les années 80?",
+        "answers": [
+            "Spider-Man",
+            "Superman",
+            "Iron Man",
+            "Captain America"
+        ],
+        "correct": 1,
+        "anecdote": "Christopher Reeve a joué Superman dans quatre films de 1978 à 1987."
+    },
+    {
+        "text": "Quel super-héros a été créé par Jack Kirby et Joe Simon?",
+        "answers": [
+            "Spider-Man",
+            "Superman",
+            "Captain America",
+            "Iron Man"
+        ],
+        "correct": 2,
+        "anecdote": "Captain America a été créé en 1940 et est considéré comme l'un des premiers super-héros de l'âge d'or des comics."
+    },
+    {
+        "text": "Quel super-héros a été interprété par Robert Downey Jr. dans les films de l'univers cinématographique Marvel?",
+        "answers": [
+            "Spider-Man",
+            "Superman",
+            "Captain America",
+            "Iron Man"
+        ],
+        "correct": 3,
+        "anecdote": "Robert Downey Jr. a joué Iron Man dans plusieurs films de l'univers cinématographique Marvel, y compris Iron Man, The Avengers et Avengers: Endgame."
+    },
+    {
+        "text": "Quel super-héros a été créé par Jerry Siegel et Joe Shuster?",
+        "answers": [
+            "Spider-Man",
+            "Superman",
+            "Captain America",
+            "Iron Man"
+        ],
+        "correct": 1,
+        "anecdote": "Superman est apparu pour la première fois dans Action Comics #1 en 1938 et est considéré comme le premier super-héros moderne."
+    },
+    {
+        "text": "Quel super-héros a été interprété par Chris Evans dans les films de l'univers cinématographique Marvel?",
+        "answers": [
+            "Spider-Man",
+            "Superman",
+            "Captain America",
+            "Iron Man"
+        ],
+        "correct": 2
+    },
+
+    {
+        "text": "Quel super-héros a la capacité de se téléporter à travers les dimensions?",
+        "answers": [
+            "Nightcrawler",
+            "Shadowcat",
+            "Adam Warlock",
+            "Miracleman"
+        ],
+        "correct": 0
+    },
+    {
+        "text": "Quel super-héros est capable de se rendre invisible et intangible?",
+        "answers": [
+            "Shadowcat",
+            "Nightcrawler",
+            "Adam Warlock",
+            "Miracleman"
+        ],
+        "correct": 0
+    },
+    {
+        "text": "Quel super-héros possède une force surhumaine, des réflexes accrus et une agilité exceptionnelle?",
+        "answers": [
+            "Nightcrawler",
+            "Shadowcat",
+            "Adam Warlock",
+            "Miracleman"
+        ],
+        "correct": 0
+    },
+    {
+        "text": "Quel super-héros a la capacité de guérir rapidement de presque toutes les blessures et de survivre sans air pendant des périodes prolongées?",
+        "answers": [
+            "Miracleman",
+            "Nightcrawler",
+            "Shadowcat",
+            "Adam Warlock"
+        ],
+        "correct": 3
+    },
+    {
+        "text": "Quel super-héros possède un costume qui lui permet de voler et de tirer des rayons d'énergie?",
+        "answers": [
+            "Adam Warlock",
+            "Miracleman",
+            "Nightcrawler",
+            "Shadowcat"
+        ],
+        "correct": 0
+    },
+    {
+        "text": "Quel super-héros est capable de contrôler la magie et de se battre avec un bâton magique?",
+        "answers": [
+            "Adam Warlock",
+            "Miracleman",
+            "Nightcrawler",
+            "Doctor Strange"
+        ],
+        "correct": 3
+    },
+    {
+        "text": "Quel super-héros possède une armure high-tech qui lui permet de voler et de tirer des rayons d'énergie?",
+        "answers": [
+            "Adam Warlock",
+            "Miracleman",
+            "Nightcrawler",
+            "Iron Man"
+        ],
+        "correct": 3
+    },
+    {
+        "text": "Quel super-héros peut contrôler les ombres et a la capacité de se déplacer à travers les ombres?",
+        "answers": [
+            "Nightcrawler",
+            "Shadowcat",
+            "Adam Warlock",
+            "Miracleman"
+        ],
+        "correct": 0
+    },
+    {
+        "text": "Quel super-héros a la capacité de changer de forme pour prendre l'appareence de n'importe qui et de devenir intangible?",
+        "answers": [
+            "Shadowcat",
+            "Nightcrawler",
+            "Adam Warlock",
+            "Mystique"
+        ],
+        "correct": 3
+    },
+    {
+        "text": "Quel super-héros possède une épée magique qui peut renvoyer les coups et les énergies?",
+        "answers": [
+            "Adam Warlock",
+            "Miracleman",
+            "Nightcrawler",
+            "Captain Britain"
+        ],
+        "correct": 3
+    },
+
+
+    {
+        "text": "Quel super-héros a été conçu pour être une arme vivante par le gouvernement?",
+        "answers": [
+            "Deadpool",
+            "Wolverine",
+            "Captain America",
+            "Hulk"
+        ],
+        "correct": 1
+    },
+    {
+        "text": "Quel super-héros est connu pour porter un costume en cuir noir et pour sa rapidité et ses capacités de combat?",
+        "answers": [
+            "Daredevil",
+            "Spider-Man",
+            "Batman",
+            "Black Widow"
+        ],
+        "correct": 2
+    },
+    {
+        "text": "Quel super-héros est souvent associé à un logo rouge et jaune en forme de éclair?",
+        "answers": [
+            "The Flash",
+            "Quicksilver",
+            "The Atom",
+            "Zatanna"
+        ],
+        "correct": 0
+    },
+    {
+        "text": "Quel super-héros est connu pour porter une armure high-tech qui lui permet de voler et de tirer des rayons?",
+        "answers": [
+            "Iron Man",
+            "Ant-Man",
+            "The Vision",
+            "Black Panther"
+        ],
+        "correct": 0
+    },
+    {
+        "text": "Quel super-héros est connu pour avoir des capacités surhumaines telles que la force, la rapidité, l'agilité, les sens et la régénération accélérée?",
+        "answers": [
+            "Spider-Man",
+            "Wolverine",
+            "Superman",
+            "Captain America"
+        ],
+        "correct": 1
+    },
+    {
+        "text": "Quel super-héros est connu pour avoir été mordu par une araignée radioactive et pour avoir développé des capacités telles que la force et l'agilité surhumaines ainsi qu'un sixième sens?",
+        "answers": [
+            "Iron Man",
+            "Spider-Man",
+            "Thor",
+            "Captain America"
+        ],
+        "correct": 1
+    },
+    {
+        "text": "Quel super-héros est connu pour sa capacité à se téléporter à travers les dimensions et pour son habileté au combat à l'épée?",
+        "answers": [
+            "Nightcrawler",
+            "Gambit",
+            "Cyclops",
+            "Storm"
+        ],
+        "correct": 0
+    },
+    {
+        "text": "Quel super-héros est connu pour sa capacité à contrôler les éléments naturels tels que la pluie, le tonnerre et la foudre?",
+        "answers": [
+            "Cyclone",
+            "Storm",
+            "Lightning",
+            "Thunder"
+        ],
+        "correct": 1
+   },
+   {
+        "text": "Quel super-héros est capable de se métamorphoser en n'importe quelle forme vivante qu'il désire?",
+        "answers": [
+            "Mystique",
+            "Shape-Shifter",
+            "Changeling",
+            "Morph"
+        ],
+        "correct": 0
+   },
+   {
+        "text": "Quel super-héros est connu pour son habileté à manipuler les probabilités à son avantage?",
+        "answers": [
+            "Gambit",
+            "Luck",
+            "Chance",
+            "Fortune"
+        ],
+        "correct": 0
+   },
+   {
+        "text": "Quel super-héros est capable de voler grâce à ses ailes membraneuses et de contrôler les oiseaux?",
+        "answers": [
+            "Hawkman",
+            "Hawkwoman",
+            "Birdman",
+            "Raven"
+        ],
+        "correct": 0
+   },
+   {
+        "text": "Quel super-héros est connu pour sa capacité à communiquer avec les morts et à invoquer les esprits?",
+        "answers": [
+            "Zatanna",
+            "Doctor Strange",
+            "Raven",
+            "Necromancy"
+        ],
+        "correct": 0
+   }
+]
