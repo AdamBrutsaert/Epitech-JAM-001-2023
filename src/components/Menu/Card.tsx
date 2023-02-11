@@ -1,6 +1,4 @@
 import type { FunctionComponent, ReactNode } from "react";
-import Layout from "./Layout";
-import { MemoIcon } from "./Icons";
 
 interface CardProps {
   icon: ReactNode;
@@ -24,18 +22,4 @@ const Card: FunctionComponent<CardProps> = ({ icon, title, href }) => {
   );
 };
 
-const activities = [{ href: "/memo", title: "Memo", icon: MemoIcon, id: 0 }];
-
-const App: FunctionComponent = () => {
-  return (
-    <Layout>
-      <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
-        {activities.map(({ id, href, title, icon }) => (
-          <Card key={id} href={href} title={title} icon={icon} />
-        ))}
-      </div>
-    </Layout>
-  );
-};
-
-export default App;
+export default Card;
