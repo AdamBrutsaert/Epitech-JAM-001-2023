@@ -11,7 +11,7 @@ const Layout: FunctionComponent<LayoutProps> = ({ children }) => {
         <header className="flex items-center justify-center">
           MY_MINIGAMES
         </header>
-        <main className="my-6">{children}</main>
+        <main className="my-6 relative">{children}</main>
       </div>
     </div>
   );

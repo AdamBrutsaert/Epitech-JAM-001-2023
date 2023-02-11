@@ -17,6 +17,11 @@ const Index = () => {
 
   return (
     <Layout>
+      {score && score.answered !== score.total && (
+        <div className="flex items-center justify-center">
+          <ProgressBar actual={score.answered} total={score.total} />
+        </div>
+      )}
       <div className="flex h-full flex-col items-center justify-center">
         {score && score.total !== score.answered && (
           <Question key={attempt} question={question} onAnswer={onAnswer} />
