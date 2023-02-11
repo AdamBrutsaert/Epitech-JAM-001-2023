@@ -5,26 +5,23 @@ import Layout from "components/Layout";
 import Card from "components/Memo/Card";
 
 const Memo: FunctionComponent = () => {
-  const [board, flip] = useBoard(4, 5);
+  const [board, flip] = useBoard();
 
   return (
     <Layout>
       <div className="flex flex-col justify-center items-center">
-        {board.map((line, row) => {
-          return (
-            <div key={row} className="flex">
-              {line.map((cell, column) => (
-                <Card
-                  key={row * 6 + column}
-                  cell={cell}
-                  onClick={() => {
-                    flip(row, column);
-                  }}
-                />
-              ))}
-            </div>
-          );
-        })}
+        <div className="grid grid-cols-5">
+          {board.map((cell, idx) => (
+            <Card
+              key={idx}
+              cell={cell}
+              onClick={() => {
+                console.log("flip called\n");
+                flip(idx);
+              }}
+            />
+          ))}
+        </div>
       </div>
     </Layout>
   );
