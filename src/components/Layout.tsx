@@ -14,7 +14,7 @@ const Layout: FunctionComponent<LayoutProps> = ({ children }) => {
             <img className="h-10" src="/images/logo_bat.png" alt="ZEBI" />
           </Link>
         </header>
-        <main className="my-6">{children}</main>
+        <main className="my-6 relative">{children}</main>
       </div>
     </div>
   );
